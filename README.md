@@ -1,16 +1,8 @@
-# pacman
+## P A C M A N
 
-Creating pacman game
+# Retro Pacman game entirely with flutter. 
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/34944818/115998768-75205580-a606-11eb-958f-ed531593b02b.gif"  height="600" />
 
-This project is a starting point for a Flutter application.
+# Right now I am using setState every where for the changes but soon I'll change to getx.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
